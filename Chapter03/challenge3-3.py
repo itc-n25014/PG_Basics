@@ -1,7 +1,7 @@
 x = 2
 if x <= 10:
-    print("x is less than or equal to 10.")
+    print("xは10以下です.")
 elif x <= 25:
-    print("x is greater than 10, but less than or equal to 25.")
+    print("xは10より大きいが25以下です.")
 else:
-    print("x is greater than 25.")
+    print("xは25より大きいです.")
