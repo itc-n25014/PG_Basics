@@ -1,7 +1,8 @@
-age = 64
-retirement = age - 65
-
-if retirement < 10:
-    print("You get to retire soon.")
+age = "False"
+if age ==  "True":
+    print("age は True です")
 else:
-    print("You have a long time until you can retire!")
+    print("age は False です")
+
+age は False です
+
